@@ -1,0 +1,6 @@
+.containerTodos{
+    display: grid;
+    grid-template-columns: repeat(2, 488px);
+    row-gap: 20px;
+    height: auto;
+}

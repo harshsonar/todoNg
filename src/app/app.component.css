@@ -1,0 +1,21 @@
+.container{
+    max-width: 1000px;
+}
+
+
+.navbar-nav{
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.navbar-nav li a{
+    color: #aaa;
+}
+.navbar-nav li a,
+.navbar-nav li a:after,
+.navbar-nav li a:before{
+    transition: all .25s;    
+}
+.navbar-nav li a:hover{
+    color: black;
+}
